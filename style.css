@@ -77,8 +77,10 @@ button:disabled{
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.5);
   }
 
+
   #text{
-    font-size: 16px;
     padding: 16px;
+    margin-bottom: 5em;
+    font-size: 24px;
   }
 }
